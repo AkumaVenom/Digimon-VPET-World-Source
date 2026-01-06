@@ -2,7 +2,7 @@
 
 Digimon VPET World
 
-Digimon VPET World is an Unreal Engine source-based fan project inspired by classic Digimon virtual pets, modern Digimon games, and retro FPS-style presentation — built entirely in 3D anime-style cel-shaded graphics, with 3D Digimon & optional 2D animated Digimon sprites rendered inside a 3D world
+Functional open source unreal engine project of Digimon VPET World, an Unreal Engine source-based fan project inspired by classic Digimon virtual pets, modern Digimon games, built entirely in 3D anime-style cel-shaded graphics, with 3D Digimon & optional 2D animated Digimon sprites rendered inside a 3D world
 
 The project is designed as a playable Digimon sandbox focused on exploration, wild battles, scanning & materialization, feeding mechanics, and long-term expansion.
 
