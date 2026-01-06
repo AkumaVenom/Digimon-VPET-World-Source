@@ -1,0 +1,3 @@
+unless an animation calls them in, it appears the normal and specular are also unused,
+as the .geom which stores the geometry and material information,
+they do not show up for his material unlike the other rare Digimon that do use a Normal Maps.
