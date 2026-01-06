@@ -39,6 +39,16 @@ Rendering Style: Anime-style cel shading (3D), optional 2D animated Digimon spri
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Buttons
+
+F Key: Actions
+
+TAB: Options Menu
+
+Left Mouse Button: Command Player Owned Digimon To Attack Enemy Digimon
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 🌍 Core Gameplay Features
 🐾 Digimon World & Presentation
 
