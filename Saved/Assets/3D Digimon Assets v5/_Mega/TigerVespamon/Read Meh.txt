@@ -1,0 +1,1 @@
+For the blade light I used Diffuse hex color 65E7D8 and Transparency Z with Fresnel . and blend 2
