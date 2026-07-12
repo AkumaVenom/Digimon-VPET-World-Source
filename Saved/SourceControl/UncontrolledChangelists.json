@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/619/Documents/Unreal Projects/Digimon-VPET-World-Source/Content/MAIN/UI/IngameOptionsMenu_UI.uasset",
+				"C:/Users/619/Documents/Unreal Projects/Digimon-VPET-World-Source/Content/MAIN/Blueprints/Player/MasterCharacter_BP.uasset",
+				"C:/Users/619/Documents/Unreal Projects/Digimon-VPET-World-Source/Content/MAIN/UI/GraphicsMenu_UI1.uasset",
+				"C:/Users/619/Documents/Unreal Projects/Digimon-VPET-World-Source/Content/MAIN/GameData/RPG_GameMode.uasset"
+			]
+		}
+	]
+}
