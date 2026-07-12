@@ -35,6 +35,8 @@ Rendering Style: Anime-style cel shading (3D), optional 2D animated Digimon spri
 
 ⚠️ While UE4.27 is supported and very stable, the project has been moved over to UE5.7 for future updates.
 
+Get the UE5.7 DLSS Plugin for use with this project: https://developer.nvidia.com/rtx/dlss
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Buttons
