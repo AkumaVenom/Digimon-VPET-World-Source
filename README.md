@@ -27,15 +27,13 @@ Digimon and all related properties are owned by Bandai / Toei Animation.
 
 Engine & Compatibility
 
-Primary Engine Version: Unreal Engine 4.27
-
-Tested & Working: Unreal Engine 5.5 with some adjustments applied.
+Primary Engine Version: Unreal Engine 5.7
 
 Project Type: Full source project (GitHub-ready)
 
 Rendering Style: Anime-style cel shading (3D), optional 2D animated Digimon sprites
 
-⚠️ While UE5.5 is supported, the project is configured for UE4.27 by default for maximum stability.
+⚠️ While UE4.27 is supported and very stable, the project has been moved over to UE5.7 for future updates.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -52,7 +50,7 @@ Left Mouse Button: Command Player Owned Digimon To Attack Enemy Digimon
 🌍 Core Gameplay Features
 🐾 Digimon World & Presentation
 
-Fully 3D cel-shaded world and Digimon
+Fully 3D cel-shaded world and Digimon with DLSS 4.5 support
 
 Optional 2D animated Digimon sprites displayed in the 3D environment
 
