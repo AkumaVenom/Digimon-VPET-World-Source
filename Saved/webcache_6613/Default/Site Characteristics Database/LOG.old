@@ -1,5 +1,1 @@
-2026/07/13-10:35:27.169 2eb8 Log #3: 9 ops saved to Table #4 OK
-2026/07/13-10:35:27.170 2eb8 Archiving C:\Users\619\Documents\Unreal Projects\Digimon-VPET-World-Source\Saved\webcache_6613\Default\Site Characteristics Database/000003.log: OK
-2026/07/13-10:35:27.170 2eb8 Table #4: 9 entries OK
-2026/07/13-10:35:27.170 2eb8 Archiving C:\Users\619\Documents\Unreal Projects\Digimon-VPET-World-Source\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001: OK
-2026/07/13-10:35:27.175 2eb8 **** Repaired leveldb C:\Users\619\Documents\Unreal Projects\Digimon-VPET-World-Source\Saved\webcache_6613\Default\Site Characteristics Database; recovered 1 files; 272 bytes. Some data may have been lost. ****
+2026/07/13-10:35:27.176 2eb8 Reusing MANIFEST C:\Users\619\Documents\Unreal Projects\Digimon-VPET-World-Source\Saved\webcache_6613\Default\Site Characteristics Database/MANIFEST-000001
