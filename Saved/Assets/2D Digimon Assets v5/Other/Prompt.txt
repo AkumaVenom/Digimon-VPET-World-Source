@@ -1,0 +1,3 @@
+Prompt for chatgpt to create sprites if you have PLUS membership with OpenAI
+
+i need you to create a sprite sheet for a digimon called nanimon with each frame as attack, idle, left leg walk, get hit. i need the frames to be in 256x256 and green screen background for its chrome key transparency and i need the sprites style to be of the old DS games sprites, take a look at the uploaded picture of the nanimon digimon close up, also i need the sprites to be front view and each frame needs to be a separate png file each to download
