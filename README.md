@@ -15,6 +15,8 @@ Digimon and all related properties are owned by Bandai / Toei Animation.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<img width="1254" height="1254" alt="ChatGPT Image Jul 15, 2026, 02_52_32 PM" src="https://github.com/user-attachments/assets/b2a22bf7-6c24-432f-866c-54cb80a78922" />
+
 ![1Main](https://github.com/user-attachments/assets/7bb9b545-6659-495f-89b7-90e3f9e3cf27)
 
 
